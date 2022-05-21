@@ -1,0 +1,8 @@
+math.inf, 2, 2, 3, 1, math.inf, math.inf, 7
+2, math.inf, 4, math.inf, 5, 2, math.inf, math.inf
+2, 4, math.inf, math.inf, math.inf, math.inf, math.inf, 3
+3, math.inf, math.inf, math.inf, math.inf, 4, math.inf, 8
+1, 5, math.inf, math.inf, math.inf, 2, math.inf, math.inf
+math.inf, 2, 4, math.inf, 2, math.inf, 3, math.inf
+math.inf, math.inf, math.inf, math.inf, math.inf, 3, math.inf, 1
+7, math.inf, 3, 8, math.inf, math.inf, 1, math.inf
